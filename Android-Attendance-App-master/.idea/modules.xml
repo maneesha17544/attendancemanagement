@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-Attendance-App-master/app/src/app.iml" filepath="$PROJECT_DIR$/Android-Attendance-App-master/app/src/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Attendance-App-master/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/bundle-manifest.iml" filepath="$PROJECT_DIR$/Android-Attendance-App-master/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/bundle-manifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Attendance-App-master/app/build/intermediates/packaged_manifests/debug/debug.iml" filepath="$PROJECT_DIR$/Android-Attendance-App-master/app/build/intermediates/packaged_manifests/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Attendance-App-master/app/build/generated/source/generated.iml" filepath="$PROJECT_DIR$/Android-Attendance-App-master/app/build/generated/source/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Attendance-App-master/app/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/instant-app-manifest.iml" filepath="$PROJECT_DIR$/Android-Attendance-App-master/app/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/instant-app-manifest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Attendance-App-master/app/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources.iml" filepath="$PROJECT_DIR$/Android-Attendance-App-master/app/build/generated/not_namespaced_r_class_sources/not_namespaced_r_class_sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Attendance-App-master/app/build/intermediates/merged_manifest/debug/out/out.iml" filepath="$PROJECT_DIR$/Android-Attendance-App-master/app/build/intermediates/merged_manifest/debug/out/out.iml" />
+    </modules>
+  </component>
+</project>
